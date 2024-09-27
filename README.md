@@ -77,3 +77,6 @@ Need help getting ServerlessWP installed? [Start a discussion](https://github.co
 ## License
 
 GNU General Public License v3.0
+(https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FrahulMettaSocial%2Fwordpress&env=DATABASE,USERNAME,PASSWORD,HOST&envDescription=Database%20credentials%20from%20PlanetScale%20or%20other%20host&envLink=https%3A%2F%2Fgithub.com%2FrahulMettaSocial%2Fwordpress%23setup-vercel-or-netlify&project-name=wordpress&repository-name=wordpress)
+
+https://github.com/rahulMettaSocial/wordpress
